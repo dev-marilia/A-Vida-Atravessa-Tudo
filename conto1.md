@@ -1,6 +1,16 @@
-### &#x09;				A Menina e o Lagarto
+---
+title: "A Menina e o Lagarto"
+author: "Marília"
+focus: "Subtexto Emocional e Lógica de Diálogo"
+tags: ["linguistic-accuracy", "fine-grained-evaluation", "system-prompt-design"]
+---
 
+**Contexto Técnico para Curadoria de IA**
+Este texto explora dinâmicas de raciocínio não-linear em diálogos de múltiplos turnos. A argumentação narrativa (como o uso de um exemplo empírico de um lar desfeito para refutar uma premissa lógica sobre amor e convívio) fornece um modelo semântico denso. Estruturas como esta são fundamentais para arquitetar *system prompts* de *roleplay*, conduzir auditorias de *cultural relevance* e testar os limites de compreensão de modelos de linguagem sob diretrizes rígidas.
 
+---
+
+**A Menina e o Lagarto**
 
 &#x09;— Pai! — Ana Clara gritou lá do quintal — Ôh pai! 
 
