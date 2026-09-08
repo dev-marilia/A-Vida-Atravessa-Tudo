@@ -1,6 +1,6 @@
 ---
 title: "A Menina e o Lagarto"
-author: "Marília"
+author: "Marília Magalhães"
 focus: "Subtexto Emocional e Lógica de Diálogo"
 tags: ["linguistic-accuracy", "fine-grained-evaluation", "system-prompt-design"]
 ---
