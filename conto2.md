@@ -1,6 +1,6 @@
 ---
 title: "Lembranças"
-author: "Marília"
+author: "Marília Magalhães"
 focus: "Ambiguidade Temporal e Subtexto de Luto"
 tags: ["linguistic-accuracy", "contextual-understanding", "fine-grained-evaluation"]
 ---
@@ -109,6 +109,13 @@ Bianca riu, sabendo que Silvana adotara as piadas como resposta após a morte de
 — Vamos lá pra dentro. — Ela segurou a mão da mãe, dando apoio para que levantasse. 
 
 — Podemos fazer bolo de fubá hoje, minha filha? 
+
+---
+
+**Registro de Alterações (Changelog)**
+* **v1.0**: Documentação inicial da narrativa com foco na interação central.
+* **v1.1**: Ajustes de metadados técnicos, incluindo tags de curadoria.
+* **v1.2**: Refinamento da transição de ponto de vista (da perspectiva interna de Silvana para a visão externa da filha, Bianca) para reforçar o subtexto do luto e a ilusão narrativa.
 
 — É claro, mãe.
 
