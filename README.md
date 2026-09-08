@@ -13,7 +13,7 @@ A construção de ficção literária e roteiros exige um domínio profundo da e
 * **Linguistic Accuracy & Cultural Relevance:** Auditoria refinada para garantir que o tom, a gramática, a voz e as nuances locais de um texto gerado sejam precisos e nativamente adequados à cultura.
 
 ## 📂 Como Navegar
-* `/contos`: Histórias focadas em narrativas, desenvolvimento de personagens (como as dinâmicas de suspense) e impacto emocional.
+* `/contos`: Histórias focadas em narrativas, desenvolvimento de personagens e impacto emocional.
 
 ---
 
